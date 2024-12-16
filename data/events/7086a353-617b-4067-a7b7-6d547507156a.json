@@ -1,0 +1,36 @@
+{
+  "audiovisual_files": {
+    "92431e94-7041-4fde-a0b0-ec9576530121": {
+      "label": "Che reads my palms 61.a",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    },
+    "ef89d46c-53a9-4663-b506-306f37437adf": {
+      "label": "Che reads my palms 61.b",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 1200,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chela Sandoval reads Anzaldúa's palms, Santa Cruz, CA, 10 July 1983."
+        }
+      ]
+    }
+  ],
+  "citation": "Anzaldúa, Gloria. Papers. Nettie Lee Benson Latin American Collection, University of Texas, Austin. Box 157.34 [mp3 #61] ",
+  "item_type": "Audio",
+  "label": "Che reads my palms, Santa Cruz, CA, 10 July 1983",
+  "created_at": "2024-12-16T16:18:23.853Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-12-16T16:18:23.853Z",
+  "updated_by": "tanyaclement"
+}
