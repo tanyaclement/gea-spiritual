@@ -1,0 +1,43 @@
+{
+  "audiovisual_files": {
+    "c4df08a9-9fbf-4758-b90d-8bc92e49932f": {
+      "label": "171a",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    },
+    "122e938d-a80d-4daf-9c63-c192f7894a1c": {
+      "label": "171b",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 0,
+      "caption_set": []
+    },
+    "7b6532ae-bd87-4152-90c3-9236b4d8701f": {
+      "label": "175",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 0,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lisa Biow gives performs an astrological reading for Gloria Anzaldúa in New Haven, Connecticut on January 3, 1982."
+        }
+      ]
+    }
+  ],
+  "citation": "Anzaldúa, Gloria. Papers. Nettie Lee Benson Latin American Collection, University of Texas, Austin. Box 157, Folder 31-32 [MP3 #171a,  171b,175]",
+  "item_type": "Audio",
+  "label": " Lisa Biow, Astrology. Reading, New Haven, 1982 January 03",
+  "created_at": "2024-12-17T22:32:36.206Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-12-17T22:32:36.206Z",
+  "updated_by": "tanyaclement"
+}
