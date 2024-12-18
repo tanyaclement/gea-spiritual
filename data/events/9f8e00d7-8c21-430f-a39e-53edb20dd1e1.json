@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "7ee31e46-0247-4f9c-aa98-6812ef509fbf": {
+      "label": "174a",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " Natal Chart created for Gloria Anzaldúa by Liza Biow in Brooklyn on June 5th, 1983 "
+        }
+      ]
+    }
+  ],
+  "citation": "Anzaldúa, Gloria. Papers. Nettie Lee Benson Latin American Collection, University of Texas, Austin. Box 157, Folder 33 [mp3 #174]",
+  "item_type": "Audio",
+  "label": " Natal Chart for GEA by Liza Biow, Brooklyn, 05 June 1983 ",
+  "created_at": "2024-12-18T19:08:15.939Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-12-18T19:08:15.939Z",
+  "updated_by": "tanyaclement"
+}
