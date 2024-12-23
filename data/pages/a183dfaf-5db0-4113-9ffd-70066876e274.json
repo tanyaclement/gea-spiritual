@@ -1,5 +1,14 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2024-12-13T19:43:13.218Z",
   "created_by": "tanyaclement",
   "title": "Gloria Anzaldúa's Spiritual Recordings",
