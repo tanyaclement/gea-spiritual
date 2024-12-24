@@ -1,5 +1,4576 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 13,
+      "annotation": [
+        {
+          "text": "[Tape starts]\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Joyce Lierberman",
+          "bold": true
+        },
+        {
+          "text": ": -out of the pathway. I don’t know if you can hear anything if it's that loud [inaudible]\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Gloria Anzaldúa",
+          "bold": true
+        },
+        {
+          "text": ": Well if not, I’ll just erase it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Media Awareness",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "a9f80e3e-2535-4546-8e39-bfd909ef7168"
+    },
+    {
+      "start_time": 13,
+      "end_time": 46,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Are your hands always this terribly hot?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Um, no I think–I had a hysterectomy, so I get hot flashes once in a while. And I think I’m having one right now. I’m not sure though. But usually they are warm.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Lieberman asks Anzaldúa about past injuries to two of her fingers. Anzaldúa responds that they may have been sprained but never broken.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Has anything happened with these two fingers?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No they’ve never been broken.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": They have always been like this.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes. This one I think I hurt or sprained. But both of those [inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Health",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "b591a951-57f9-4c60-9c49-5f0ae344d444"
+    },
+    {
+      "start_time": 13,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Psychology/Metaphysics/Health | Box: 166"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "0c704a7a-ef24-4888-99bd-f500eaf8492c"
+    },
+    {
+      "start_time": 46,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[long pause] [conversations in background]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "4e0a290b-0117-4437-a19e-e953ad79fe01"
+    },
+    {
+      "start_time": 59,
+      "end_time": 83,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": When did you have your hysterectomy, Gloria?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": March 20th of last year.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": March 20th of last year.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Over six months ago.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": And that changed the temperature of your body did it?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I get-Have hormone imbalance so that. I get hot flashes and I’m taking some herbs for it, but its been hard lately. [inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Health",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "7c1f18e0-781a-4899-8609-cb724e96cf30"
+    },
+    {
+      "start_time": 59,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Psychology/Metaphysics/Health | Box: 166"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "a5457c52-e585-401a-9777-e147d4a380ab"
+    },
+    {
+      "start_time": 83,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[long pause] [conversations in background] [Anzaldúa adjusts her chair]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "b4b29538-feeb-4f9d-b70f-68cda906bec6"
+    },
+    {
+      "start_time": 113,
+      "end_time": 129,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Are you left handed or right handed?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I’m right handed, but when I was little I was switched over to right.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": But you were originally left?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I think originally I was probably ambidextrous, but I remember writing with my left hand and my teacher telling me to write with my right hand."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambidexterity"
+        }
+      ],
+      "uuid": "1ea3f6e5-aafb-4a75-bf1b-02a4caabdb65"
+    },
+    {
+      "start_time": 113,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Handwriting Analysis | Location: Box: 5 | Folder: 8"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "79ef8d5c-9f80-4c4e-89d8-ad30f9dd89f0"
+    },
+    {
+      "start_time": 129,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[long pause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "20f4d149-7115-4dd2-b380-80bd9a281446"
+    },
+    {
+      "start_time": 167,
+      "end_time": 195,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Before your hysterectomy, had you had any other hormonal difficulties whatsoever like thyroid deficiency or because I’m picking that up.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": From the time I was 3 months old I was [bleeding?] on my diaper.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Yeah, so there’s always been a hormonal imbalance of some kind.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": It’s only now that I’m getting it balanced out."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Health",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "9cfa5d54-3eed-4cfc-bf56-f3237910bb01"
+    },
+    {
+      "start_time": 167,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Health and Diet Information | Box: 3"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "f0121cf4-752e-4676-b068-0b9646ee5f1f"
+    },
+    {
+      "start_time": 195,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[long pause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "d2b9ff55-4717-4687-bae2-91d502b81079"
+    },
+    {
+      "start_time": 219,
+      "end_time": 336,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You have such a need to guard your good name and your reputation.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I have that need?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Yes ma'am. No matter what it seems like. You are a very proud person.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Very. That’s why I’m afraid I’m gonna fall. Pride comes before a fall.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You’re very proud and you’re very easily hurt and you don’t like people to know it. And in addition to which, you have a great need to go your own way. At the same time that you have a great need to go your own way, you’ve felt so bound by so many things that it has made you very angry. [long pause] How old are you Gloria?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": um, let’s see- 37? I have to count backward.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Life is becoming more and more open for you. It’s going to open much more ready to you in the next 10 years, but it’s already begun. It began in about three, four years ago. Things started happening.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": That’s correct.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": [inaudible]\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": How can you tell it was three years ago? Which lines? Any particular ones?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Well, I can’t find the time to give you a lesson and a reading right now. You know, but if you leave your address when I give lessons if I decide to [inaudible]\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I would like that, yes."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Identity",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "71667d24-eaa6-40a0-bf89-62a2e2403339"
+    },
+    {
+      "start_time": 336,
+      "end_time": 440,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You know, cause, uh-[long pause] Now you have, you know, you have quite a bit of fire in you, and some earth, and some water is mixed. What is your sign?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Uh, Libra, but I have a lot of earth though\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Oh, yeah, right, cause in no way is this an air hand, in the world.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": In no way its what? Air?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": It's not an air hand. And a libra is air, but you have- what’s your ascendant?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": My ascendant is sagittarius.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": There’s the fire.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": And my moon is Aries.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": More fire. See now that’s actually a fire hand. Essentially its a fire hand with some–You have a paramount water placement somewhere, I don’t know where it is. But its essentially fire. See one hand is more fire, the other hand is more earth. No, that’s not true. There’s essentially a fire hand.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I have quite a bit of earth in my chart, so-\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Yeah. See it’s very interesting. [inaudible] It would be very interesting to know when that switch over with the hands came. Because there’s an extraordinary amount of difference in your hands. Even given the proportion of differences in all hands.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I think it must have come like around when I was seven?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Zodiac",
+          "category": "Astrological and Tarot Symbols"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "element"
+        }
+      ],
+      "uuid": "bff54dcf-c83d-4a94-a55b-339cfaf61030"
+    },
+    {
+      "start_time": 336,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Natal chart, Gloria Anzaldúa and Chela Sandoval | Location: Box: 5 | Folder: 11"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "acca97a2-79c2-4e09-819e-84fe63630c5f"
+    },
+    {
+      "start_time": 440,
+      "end_time": 471,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": See you were born into a lot of difficulty. Right off the bat.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": A lot. Was there difficulty at home? As well as your own health? Poverty?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yeah, poverty and\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Fighting sickness? What?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Sickness, um, just a lot of difficulty. My father died very early and I always had problems with my uterus, hormones, my period."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Health",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Upbringing",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "1a8914d0-505e-4b04-8eb3-a96a257f8758"
+    },
+    {
+      "start_time": 471,
+      "end_time": 531,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Listen, you’re lucky to be here.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Am I?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": I mean, you’re here. You’re pretty healthy.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I’ve come close to death a whole lot of times\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": I know. You’re a strong lady-\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": This- I broke that and the wrist bone. Two, three years ago.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": At this point you are right-handed though, right?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes. I do not-I can’t write with my left hand anymore. I can do some heavy things, but mostly the fine things I have to do with my right hand."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Health",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ambidexterity"
+        }
+      ],
+      "uuid": "a026abde-b65d-479d-955c-0a2d4b99d21d"
+    },
+    {
+      "start_time": 471,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: \"Courting Death,\", 1976, 1979 | Location: Box: 85 | Folder: 28"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "de8b85d9-2fa4-41bf-a358-fd0d103c1832"
+    },
+    {
+      "start_time": 531,
+      "end_time": 563,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Well, you've had plenty of pain in your life, I’ll tell you. But you have plenty of native energy. You have plenty of energy, you have plenty of stamina, and you can take a hell of a lot.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": And I wanna tell you something, you can give a hell of a lot too. You can be a bitch on wheels.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes. Well sometimes I think I’m not allowing my intuition and my power, my energy to flow. Like I feel stopped up."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Identity",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "b8da7a6d-3727-4d28-b5b4-e289f179be86"
+    },
+    {
+      "start_time": 563,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You are. But you’ve been through a lot and that’s the truth. And there’s enormous energy in this hand, I promise you. I mean, enormous energy. There’s enormous energy in this hand, and in your hands. Now this one has a lot more stability. I mean, you survived a lot of stuff. That’s just all there is to it, you really have. [long pause] Up to about your 18th year, things were pretty hairy. And you did get some relief. And when I say 18, I mean 27, and maybe 19 and through--\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": In between?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Yeah. that period though was [inaudible]. Somehow you managed to get free and live freer than you had been.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I started leaving home.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": At what time?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": About 19. I left for a year.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": But your plan, you were thinking of it before, weren’t you?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes, I’d been planning\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": And at 19 you left?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I came back a year later but it was like a different world.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Where’d you go to?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I went about 800 miles away. Clear across the state of Texas.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": To where?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": To a little town named Denton, north of Dallas.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": But at least you were near a good place.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes, I started going to a university there."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Travel",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Scholarship",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Upbringing",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "04860288-734f-48f7-8944-7db4673399cd"
+    },
+    {
+      "start_time": 637,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: C.V.s and Resumes, undated | Location: Box: 1 | Folder: 4"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "a09f64fd-a7f5-4da5-b0a6-781a4d537ece"
+    },
+    {
+      "start_time": 676,
+      "end_time": 706,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You see, what had happened is you always wanted to leave. \n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I always wanted to leave "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": But you couldn’t get away. \n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No. \n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Finally you did. But you always wanted to. \n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes, I still want to. I wanna move to the east coast. I’ve been here three years and I’m ready to go.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Where were you before this three years?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Um, I was in Indiana. I was working with the migrant programs in Indiana."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Travel",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Activism",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "ec0f7ba6-93d4-454d-8eb3-91e1fa9ed033"
+    },
+    {
+      "start_time": 676,
+      "end_time": 706,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Indiana | Box: 226"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "d838f1e7-0de5-40a1-bb7e-eb337c187797"
+    },
+    {
+      "start_time": 706,
+      "end_time": 798,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You have enormous amounts of power. Energy. And warmth. Very warm person. A very warm person. A great deal to give. And, uh, I tell you, you don’t show a lot. You try to not show a lot of what you’ve been through and a tremendous amount of pain. But, you’ve got a lot of growth out of it. See part of you is like a fireball. You make your mind up about things real quick. You’re as stubborn as an ox. You move like a tank\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": [laughs] yeah\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": On the other hand, you know, there’s a lot inside of you that feels real fragile and wants at all costs not to be hurt.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes, but I’m very vulnerable around relationships.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Who is not? I’ll tell you, youre a very powerful lady. And you have enormous will and determination. Enormous. You have enormous will and determination. It’s true. It’s just there. And that I promise you."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Identity",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Relationships",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "d51db9cc-0229-4cd7-9988-3a7a8d61b778"
+    },
+    {
+      "start_time": 798,
+      "end_time": 855,
+      "annotation": [
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yeah, I made up my mind I was gonna be a writer and uh, its been very hard. Writing is very hard.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Oh yeah.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I just feel like I have more energy that I’m stopping, you know. That I’m stopping it up. That I’m not using my energy. Cause I feel very frustrated.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Well, maybe you dont hold still long enough and you don’t stay quiet long enough. You’re driven.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": And I’d like to see you slow down. I’d like to see you talk less. I’d like to see you pause more. For you! I’m not talking in the terms of this.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": For me.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": That will give you a chance to un-dam. See, you ride yourself like you're a horse.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yeah, yeah."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Writing",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Identity",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "e0749b2c-d863-4092-ad9e-a74a9882cdb7"
+    },
+    {
+      "start_time": 798,
+      "end_time": 855,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Writing Guide | Box 55"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "e81bb535-c2e9-461a-9f72-0e7e4d773fbd"
+    },
+    {
+      "start_time": 855,
+      "end_time": 930,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": And it won’t take you as fast as other things will. [long pause] I tell you this much, you probably have pretty much a [inaudible] as though it all sort of fell out of the sky. Or you made a lot of mistakes. A lot of wrong moves. I think a lot of it was in the books.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I had lessons to learn.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": A lot of it is in the books, really. Essentially, you’re a hedonist. Very strong passions. And very strong needs."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Identity",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "25ba9c37-8ec3-4ee1-8ae3-de3cb1cebea8"
+    },
+    {
+      "start_time": 930,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": You don’t think I could also be like a nun type? Ascetic? Some people think I’m too nun-like.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": I don’t think you’re nun-like at all. Even if you haven’t screwed in 28 years. I don’t think youre nun-like at all. You know, I’m not talking about whether you’re Black or not, or whether you’re celibate or not. I’m talking about an attitude toward life, and how you feel, and how you think isn’t necessarily what people are seeing.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Right\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Cause you hide a lot.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I hide a lot.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": And I think that your needs are not of the nun-ly sort, if you want me to be honest with you.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I’ve always felt a little bit like that, but its sort of like egotistic to think that I think for me. But hearing somebody else say it-\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Why is that egotistical? I mean, you can be very giving, and give yourself to a cause, and have passions that are very strong. Because you do have them. You decide to let them out in a socially militant way, rather than a sexual way, that’s your need, or your choice, or your defense or whichever way you choose to look at that. This hand is full of animal energy, and I think would like a great deal of sensation out of that.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Identity",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Sexuality",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "c9ee1973-75a2-4b87-ad4e-e3a0b1c91d2d"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1054,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Whether you get it or not is another thing. Whether you avail yourself of it-excuse me- or not is another thing. You’re a very bright woman. Did you know?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No [laughs]\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You have plenty of good intelligence. And its important for you to develop it.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": The intelligence?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Intellect",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "f430be99-ef67-4ff0-8aba-f8351adfc4ee"
+    },
+    {
+      "start_time": 1054,
+      "end_time": 1179,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": mmhmm, yes. [long pause] Turn your hands up this way for me? [long pause] Have you ever been deeply in love?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": In love? I think once.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Did the person know it?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Did anything come of it?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": The person wasn’t interested?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Scared.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": So, this fell to the wayside?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No, we’re friends. It’s hard on me though. It’s very hard.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": How long ago was it?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": It’s been about, um, six years?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": So you were about 31?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes. Sometimes I’m not sure what love is. I don’t think–sometimes I think I’m not-I’ve never been in love. I mean I know what love is, but I don’t know what “in love” is. Do you know what I mean?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": So the person was not in love with you?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I think he is, but he is a gay man, and he has a gay lover.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You don’t need that\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I don’t need that. And I think we both feel that way about each other, but it’s not the right situation.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": No, I mean, if he’s a gay man, he’s going to want to make love to a man, instead of a woman, don’t you think?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Oh, yeah."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Sexuality",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Relationships",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "eefa077e-ecd9-41bc-9be9-1c6e6e55df74"
+    },
+    {
+      "start_time": 1179,
+      "end_time": 1209,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Did you know that you can love women very much too, also? Very strongly?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": yeah mmhmm. I consider myself a lesbian\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Do you?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Mmhmm. But I love all kinds of people.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Mmhmm. Have you had relationships with women?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": [inaudible]\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": The last one I had was two years ago. It’ll be two years ago in January. He was a man.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You’ve never had a relationship with a woman?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Sexuality",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Relationships",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "df7d519f-f0bb-4204-b205-aca729c4ef4a"
+    },
+    {
+      "start_time": 1209,
+      "end_time": 1307,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Why do you consider yourself a lesbian?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Because, um, I don’t define a lesbian just as somebody who makes love to a woman. I define lesbian as a woman who loves women. And I have felt attractions towards two women, but they were, one was also scared off, and the other was–already had a lover.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Did they know how you felt?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": The first one did. The second one I never said anything to her, but I think she guessed, cause we still are very loving to each other.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Are you frightened at, uh-Are you frightened to ask for a relationship?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes. I think I am. Well I think that I am. I think as soon as I say I am frightened that the opposite is also true that I’m not. I’m just very picky. I’m very particular. And I just think that I’m waiting, or I’m [inaudible]. That I have certain ideals? That are very hard to meet? And, uh\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You need a lot of love. And you need a lot of warmth. And everyone does, and you in particular. You also need outlets for your energy. That is just extremely important that you work with people in a loving way. And in a worthy way. But you do that dont you?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Sexuality",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Relationships",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "07f76a91-5ba9-421e-8cde-cdddc569ae45"
+    },
+    {
+      "start_time": 1307,
+      "end_time": 1369,
+      "annotation": [
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I teach.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": I was gonna get to that. Lift your hands up again please. See you work with words?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I teach writing, meditation-anything that has to do with writing. That facilitates getting deeper within.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": It’s strong in your hands, I’ll tell ya. It’s a good thing for you to be doing.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Words are strong in my hands?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Communications. Very strong. Very strong. Any interest in the sciences or in purely communication?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No, I love the sciences. I love to read about biophysics\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": That whole Mercury constellation is so strong in your hand. And, uh\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I wanted to be a doctor.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Yeah, I see you have a condusis–that’s real strong in you and you you should be working with people."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Writing",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Intellect",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "2fcd836d-2604-4ede-b950-788798f54448"
+    },
+    {
+      "start_time": 1369,
+      "end_time": 1431,
+      "annotation": [
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": You think I should be working with healing?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Yes\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Types of healing?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Types of healing, and that could be through communication. That could be through loving. That can be through nursing. It could be through caring in some way. Social work. You know all kinds of manifestations could that take. Where do you teach here?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I teach journal writing at State. San Francisco State. And I teach, uh--\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": What's your last name?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Creative writing worksh--Anzaldúa.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Ah-zal-du-ah?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Anzaldúa\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Anzaldúa\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I teach creative writing.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": What’s “anzal” mean?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": It’s a basque word. The Basque provinces.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Is “dua” from “two”?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": An-zal-dua-No, I think that the Basques have an entirely different language in the Indo-European-\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": You are Basque?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": My ancestors. Basque and Spanish and Mayan and Aztec-\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Whatever?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": All–I’m a mongrel."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Healing",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Identity",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "3cd5dac9-b173-4cf1-afca-2a44b7d1056d"
+    },
+    {
+      "start_time": 1369,
+      "end_time": 1431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: San Francisco State | Box: 134"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "6ddb3767-b6bc-4757-aa37-63e6342c3245"
+    },
+    {
+      "start_time": 1431,
+      "end_time": 1516,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": So you teach at State?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Journal writing. In the Feminist, uh, Women’s studies.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Do you have–how many degrees do you have? Do you have a degree?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": mmhmm Two? I almost have my PhD. But I didn’t stay for the–I didn’t finish my dissertation.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": I told you you were intelligent. You didn’t seem to know it. Don’t you think that’s strange?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No, well a lot of people have PhDs and they're not that intelligent.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": But you are. You have fierce determination. That you know, don’t you?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes. I have a vision.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Are you very close to the feminist movement? At state?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No. I’ve laways been sort of a-I don’t know what the word is–I don’t ever follow any kind of doctrine. But I have my own philosophy and my own religion.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Believe me, you’ve had plenty of protection in your life.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": From whom?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Just from whatever. [inaudible] You’ve just been protected. I’m telling you.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": mmhmm"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Intellect",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Activism",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "45ff2fc6-0688-490e-b4aa-ab9952457641"
+    },
+    {
+      "start_time": 1516,
+      "end_time": 1607,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": And in very difficult times round your 24th, 25th, 26th year. What was going on between 24 and 26 or 23 and 26?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I had finished school and I started teaching and I had several romantic involvements and uh-\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Did they come to anything?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No they didn’t come to anything\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Were they one-sided?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yeah. Not-there wasn’t any interest on my part beyond, you know, beyond sexual intimacy.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Did they want it?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yeah.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Did you have sexual intimacy?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": mmhmm Yes.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": I though you said you didn’t have any–you didn’t–no you said you weren’t in love. But you have had quite a few sexual encounters?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": No, not quite a few. About 3 that were relatively, well at least longer than 6 months, and then one that didn’t last but a few months.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": I think your needs are quite great in that direction. You should try to have fun.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I’m probably starved [laughs]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Sexuality",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Relationships",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "b2a76f65-7b4a-46b2-98a2-9805f3aa12a2"
+    },
+    {
+      "start_time": 1607,
+      "end_time": 1762,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Well-yeah. I really feel you’ve tried to guard yourself, but at the same time not to be so afraid that you don’t allow people to see how you feel. Because like everybody, of course you don’t want to be hurt. Essentially, from about your 24th through your 28th year, you were sort of on a path, a particular path, and at about 28 or 29, around that time, there was a slight divergence and you started threading along another path. Which was [inaudible].\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": [inaudible]?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Well close to. Not totally different, but it was in the same path. It did take a shift.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": A detour.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Yeah\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": And now I’m back on the original?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Yeah--well wait a minute.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Okay. [laughs] Sorry.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": [inaudible] and you're–on that same path now, that youve been on since that revision since you were 28, 29, 27, whenever that was. And that’s gonna carry you through about until you’re 46th year. Give or take a year. When you will be moving in three paths, like a prong.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Wow [laughs]. Is that possible to do?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Why not? There are gonna be three possibilities there. In other words, what I’m saying to you, in your 46th year or so, give or take a year, there will be another either career or moral, or interior decision where you’re going to have to revise and revamp again. And where you will.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Those are always painful.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Well, they’re always interesting too aren’t they?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Um, I think that you’ve got a lot of power in that hand, and a lot of ability to love and a lot of needs. I don’t think you’re made like a nun at all. I want you to know that. I think that other people decide, but don’t let them decide for you. Don't let them look at you and decide you should be a nun. You look at you and decide what you want to be.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Relationships",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Identity",
+          "category": "Personal Development and Identity"
+        }
+      ],
+      "uuid": "722d9d93-d4f4-4ce9-9c9f-6534530d5529"
+    },
+    {
+      "start_time": 1765,
+      "end_time": 1896,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Any questions you want to ask me?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I wanna ask you about my Jupiter finger.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Alright\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": People think it's very abnormal [laughs]\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Well I think that's due to the endocrine malfunction. Unless do other people have these kind of configurations or is it just you?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I think there's a slight resemblance in one of my brothers because his palm is [inaudible] but mine is like very ag--very, um"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Health",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Jupiter",
+          "category": "Astrological and Tarot Symbols"
+        }
+      ],
+      "uuid": "f10e0dd4-daff-4214-83dd-0bac1c7ab794"
+    },
+    {
+      "start_time": 1765,
+      "end_time": 1896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lieberman and Anzaldúa discuss medical conditions that influence the shape of her hand such as arthritis or rheumatism. Lieberman suggests it is most likely an endocrine or hormonal imbalance at play, reminding Anzaldúa she's been well-protected. Lieberman tells Anzaldúa her pride has caused her to have pent-up anger; Anzaldúa agrees. Lieberman recommends finding many outlets to release excess anger and to stay healthy. She reminds Anzaldúa to meet her own needs, rather than to satisfy the expectations of others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Health",
+          "category": "Personal Development and Identity"
+        },
+        {
+          "tag": "Jupiter",
+          "category": "Astrological and Tarot Symbols"
+        }
+      ],
+      "uuid": "fa3629db-27ff-45a0-88c9-7b49f56d0e7d"
+    },
+    {
+      "start_time": 1897,
+      "end_time": 1973,
+      "annotation": [
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Has this been of value to you?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": This has been a very good reading.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Have you had any palm readings before?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Um I had a woman named Elena who goes around town doing it. But very--just like five minute things. But I've always been interested in palms. I want to take a workshop.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Do!\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": I'm also very interested in tarot, in I Ching-\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Well you just generally have a lot of interest in the occult. And pursue your interests, because you have a tremendous amount of intelligence and-energy. And it should be used.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Okay\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": I hope I have given you something to work with and you have somehting you came for.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Your direction is deifnitely with people and with things and with serving.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": My destiny is the lovers [inaudible] Number 6 [inaudible]\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": And, uh, don't let other people determine for you what your needs are.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Alright, thank you.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Do I have your card?\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "GA",
+          "bold": true
+        },
+        {
+          "text": ": Yes. It's right there.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "JL",
+          "bold": true
+        },
+        {
+          "text": ": Thank you.\n\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "[Recording Stops]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Tarot",
+          "category": "Tarot and Palm Reading"
+        },
+        {
+          "tag": "I Ching",
+          "category": "Astrology and Spirituality"
+        },
+        {
+          "tag": "Numerology",
+          "category": "Astrology and Spirituality"
+        }
+      ],
+      "uuid": "694621ad-2a91-409c-af92-d66c8f458c96"
+    },
+    {
+      "start_time": 1897,
+      "end_time": 1973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Other | Box: 5"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Research and Analysis Tools"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "a4b855bc-8f36-4115-8e99-2fc6a2c4e3cb"
+    },
+    {
+      "start_time": 1976,
+      "end_time": 2798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rest of this side of the tape is what sounds like Peruvian flute music. Possibly a recording of an album."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "43a1e9f4-beee-4ab5-9590-48e5fa04f167"
+    }
+  ],
   "set": "Default",
   "event_id": "2fcc0689-4ba4-4a84-ad24-3586c251b6d9",
   "source_id": "e42b2935-d6a9-4878-a0f5-19f7052b83b9"
