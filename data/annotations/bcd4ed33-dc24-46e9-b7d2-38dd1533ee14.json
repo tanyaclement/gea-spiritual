@@ -1,5 +1,56 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song in foreign language plays [Intermittent sounds of pages turning; door opens]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "9fcf67e4-c66a-4fd1-b63c-eb53c42bd86a"
+    },
+    {
+      "start_time": 1854,
+      "end_time": 1854,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tape ends"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "tag": "Notes",
+          "category": "Research and Analysis Tools"
+        }
+      ],
+      "uuid": "4c31188a-a86a-4a2b-a79f-d58b7af0c316"
+    }
+  ],
   "set": "Default",
   "event_id": "3e5597ce-c358-4dc1-8e5d-5b84582ce99a",
   "source_id": "7ca95ab1-f6c3-4a1a-903d-7d2575eef940"
