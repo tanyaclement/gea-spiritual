@@ -1,0 +1,36 @@
+{
+  "audiovisual_files": {
+    "088cc807-98a9-4c2d-95c8-3a547a9244e9": {
+      "label": "158.1.176a",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    },
+    "b4d01f88-255a-4b38-87bc-c22de97464da": {
+      "label": "158.1.176a",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 0,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Undated astrology reading with Cherrié Moraga and Angie Arrien."
+        }
+      ]
+    }
+  ],
+  "citation": "Anzaldúa, Gloria. Papers. Nettie Lee Benson Latin American Collection, University of Texas, Austin. Box 158.1 [mp3 #176] ",
+  "item_type": "Audio",
+  "label": "Astrology Reading (with Cherrié Moraga and Angie Arrien), undated",
+  "created_at": "2024-12-26T18:40:49.916Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-12-26T18:40:49.916Z",
+  "updated_by": "tanyaclement"
+}
