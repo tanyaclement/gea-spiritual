@@ -4,8 +4,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Introduction",
-          "bold": true
+          "bold": true,
+          "text": "Introduction"
         }
       ]
     },
@@ -36,7 +36,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " The early 1980s are a critical period in the study of Anzaldua’s life and work, with the 1981 publication of the landmark Feminist anthology, This Bridge Called My Back [MO1] which was co-edited by Gloria Anzaldua and Cherrié Moraga and published by Kitchen Table Press. It was during this time that Anzaldua was working on Borderlands/La Frontera (1987)."
+          "text": " The early 1980s are a critical period in the study of Anzaldua’s life and work, with the 1981 publication of the landmark Feminist anthology, "
+        },
+        {
+          "text": "This Bridge Called My Back,",
+          "italic": true
+        },
+        {
+          "text": " which was co-edited by Gloria Anzaldua and Cherrié Moraga and published by Kitchen Table Press. It was during this time that Anzaldua was working on "
+        },
+        {
+          "text": "Borderlands/La Frontera",
+          "italic": true
+        },
+        {
+          "text": " (1987)."
         }
       ]
     },
@@ -85,7 +99,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " The earliest recordings in this exhibit were made in the late Summer of 1980, and document a series of tarot workshops taught by Angeles Arrien, a cultural anthropologist and author of ten books including The Tarot handbook : practical applications of ancient visual symbols (1987), and The Four-Fold Way: Walking the Paths of the Warrior, Healer, Teacher and Visionary (1993). These classes were attended by Anzaldua, showing a deep interest in the Tarot. Anzaldua demonstrates her knowledge by giving a tarot reading in 1981 to Sally Gearhart[MO2] , an activist[MO3] , novelist, professor active in San Francisco, and co-author of A Feminist Tarot (1981), along with Susan Rennie. In many of the recordings, Anzaldua receives either palm, astrology, or tarot readings. In one such recording, Anzaldua’s palms are read by her friend and fellow scholar Chela Sandoval while Anzaldua visited her in Santa Cruz in July 1983. In another undated recording, Cherrie Moraga receives an astrology reading from an unidentified practitioner."
+          "text": " The earliest recordings in this exhibit were made in the late Summer of 1980 and document a series of tarot workshops taught by Angeles Arrien, a cultural anthropologist and author of ten books including "
+        },
+        {
+          "text": "The Tarot Handbook : Practical Applications of Ancient Visual Symbols",
+          "italic": true
+        },
+        {
+          "text": " (1987), and "
+        },
+        {
+          "text": "The Four-Fold Way: Walking the Paths of the Warrior, Healer, Teacher and Visionary",
+          "italic": true
+        },
+        {
+          "text": " (1993). These classes were attended by Anzaldua, showing a deep interest in the Tarot. Anzaldua demonstrates her knowledge by giving a tarot reading in 1981 to Sally Gearhart , an activist , novelist, professor active in San Francisco, and co-author of "
+        },
+        {
+          "text": "A Feminist Tarot",
+          "italic": true
+        },
+        {
+          "text": " (1981), along with Susan Rennie. In many of the recordings, Anzaldua receives either palm, astrology, or tarot readings. In one such recording, Anzaldua’s palms are read by her friend and fellow scholar Chela Sandoval while Anzaldua visited her in Santa Cruz in July 1983. In another undated recording, Cherrie Moraga receives an astrology reading from an unidentified practitioner."
         }
       ]
     },
@@ -102,7 +137,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Contributing editors: Tanya Clement, Trent Wintermeier, and Jack Riordan"
         }
       ]
     }
@@ -115,6 +150,6 @@
   "slug": "introduction",
   "created_at": "2024-12-20T21:20:24.366Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-12-24T15:21:57.704Z",
+  "updated_at": "2024-12-26T17:59:11.219Z",
   "updated_by": "tanyaclement"
 }
