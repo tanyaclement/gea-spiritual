@@ -9,20 +9,14 @@
     "github_org": "tanyaclement",
     "is_private": false,
     "title": "Gloria Anzaldúa's Spiritual Recordings",
-    "description": "This is a draft project of Gloria Anzaldúa's Spiritual Recordings preserved in the Gloria Evangelina Anzaldúa Papers in the Nettie Lee Benson Latin American Collection at the University of Texas at Austin.",
+    "description": "This is a draft project of Gloria Anzaldúa's Spiritual Recordings preserved in the Gloria Evangelina Anzaldúa Papers in the Nettie Lee Benson Latin American Collection at the University of Texas at Austin. Citation: Anzaldúa, Gloria. Papers. Nettie Lee Benson Latin American Collection, University of Texas, Austin.",
     "language": "en",
     "slug": "gea-spiritual",
     "creator": "tanyaclement",
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "ajolipa",
-        "avatar_url": "https://avatars.githubusercontent.com/u/110847635?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -486,7 +480,7 @@
       ]
     },
     "created_at": "2024-12-13T19:43:13.176Z",
-    "updated_at": "2024-12-26T17:24:09.892Z",
+    "updated_at": "2024-12-26T17:48:24.017Z",
     "generate_pages_site": true
   },
   "is_private": false
