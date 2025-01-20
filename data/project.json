@@ -1,13 +1,13 @@
 {
   "publish": {
-    "publish_pages_app": true,
+    "publish_pages_app": false,
     "publish_sha": "",
     "publish_iso_date": ""
   },
   "users": [],
   "project": {
     "github_org": "tanyaclement",
-    "is_private": false,
+    "is_private": true,
     "title": "Gloria Anzaldúa's Spiritual Recordings",
     "description": "This is a draft project of Gloria Anzaldúa's Spiritual Recordings preserved in the Gloria Evangelina Anzaldúa Papers in the Nettie Lee Benson Latin American Collection at the University of Texas at Austin. Citation: Anzaldúa, Gloria. Papers. Nettie Lee Benson Latin American Collection, University of Texas, Austin.",
     "language": "en",
@@ -480,8 +480,8 @@
       ]
     },
     "created_at": "2024-12-13T19:43:13.176Z",
-    "updated_at": "2024-12-26T20:08:12.564Z",
-    "generate_pages_site": true
+    "updated_at": "2025-01-20T17:45:25.254Z",
+    "generate_pages_site": false
   },
-  "is_private": false
+  "is_private": true
 }
