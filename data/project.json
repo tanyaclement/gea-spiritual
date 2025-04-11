@@ -4,10 +4,31 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "saracarl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/708566?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "absempere",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "ajolipa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110847635?v=4",
+      "admin": false
+    }
+  ],
   "project": {
     "github_org": "tanyaclement",
-    "is_private": true,
+    "is_private": false,
     "title": "Gloria Anzaldúa's Spiritual Recordings",
     "description": "This is a draft project of Gloria Anzaldúa's Spiritual Recordings preserved in the Gloria Evangelina Anzaldúa Papers in the Nettie Lee Benson Latin American Collection at the University of Texas at Austin. Citation: Anzaldúa, Gloria. Papers. Nettie Lee Benson Latin American Collection, University of Texas, Austin.",
     "language": "en",
@@ -481,7 +502,7 @@
     },
     "created_at": "2024-12-13T19:43:13.176Z",
     "updated_at": "2025-04-08T13:52:01.855Z",
-    "generate_pages_site": false
+    "generate_pages_site": true
   },
   "is_private": true
 }
