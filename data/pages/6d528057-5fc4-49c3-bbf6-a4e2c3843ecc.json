@@ -21,6 +21,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The recordings featured"
         },
         {
@@ -50,7 +58,7 @@
           "italic": true
         },
         {
-          "text": " (1987)."
+          "text": " (1987). Evidenced in these recordings are not only Anzaldua’s interest in what we might readily identify as “New Age” spiritual practice, such as tarot, palmistry, and astrology, but the networks of spiritual practitioners, scholars, and activists that Anzaldua interacted with while living and writing in the cultural hotbeds of San Francisco and later, New York."
         }
       ]
     },
@@ -58,7 +66,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " Evidenced in these recordings are not only Anzaldua’s interest in what we might readily identify as “New Age” spiritual practice, such as tarot, palmistry, and astrology, but the networks of spiritual practitioners, scholars, and activists that Anzaldua interacted with while living and writing in the cultural hotbeds of San Francisco and later, New York."
+          "text": ""
         }
       ]
     },
@@ -66,7 +74,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " Audiovisual materials provide unique insights into history. Through the voices and conversations captured in this collection of recordings, listeners may come closer to understanding the particular ways in which histories were first embodied in their own present time. Laughter, silence, pauses and hesitations, the crunching sounds of mixed nuts, creaking doors, and detours in conversation: these artifacts within artifacts carry meaning that can only be interpreted in real time, while also revealing the imperfections and spontaneity of the historical process."
+          "text": " Audiovisual materials provide unique insights into history. Through the voices and conversations captured in this collection of recordings, listeners may come closer to understanding the particular ways in which histories were first embodied in their own present time. Laughter, silence, pauses and hesitations, the crunching sounds of mixed nuts, creaking doors, and detours in conversation: these artifacts within artifacts carry meaning that can only be interpreted in real time, while also revealing the imperfections and spontaneity of the historical process. This exhibit serves to index recurring themes within the collection, while also pointing to related areas and artifacts of the broader Anzaldua Papers, including manuscripts, subject files, and other audiovisual materials."
         }
       ]
     },
@@ -74,7 +82,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This exhibit serves to index recurring themes within the collection, while also pointing to related areas and artifacts of the broader Anzaldua Papers, including manuscripts, subject files, and other audiovisual materials."
+          "text": ""
         }
       ]
     },
@@ -91,15 +99,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "There are over 300 audiocassette tapes in Anzaldua’s collection. Described in the Benson’s finding aid as “Spirituality Recordings,” these 16 audio recordings document palm readings, astrology readings, and tarot readings and workshops. Many of the recordings prominently feature Anzaldua as she receives readings; other figures that appear in the recordings include Cherrie Moraga, Chela Sandoval, Angeles Arrien, and Sally Gearhart."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": " The earliest recordings in this exhibit were made in the late Summer of 1980 and document a series of tarot workshops taught by Angeles Arrien, a cultural anthropologist and author of ten books including "
+          "text": "There are over 300 audiocassette tapes in Anzaldua’s collection. Described in the Benson’s finding aid as “Spirituality Recordings,” these 16 audio recordings document palm readings, astrology readings, and tarot readings and workshops. Many of the recordings prominently feature Anzaldua as she receives readings; other figures that appear in the recordings include Cherrie Moraga, Chela Sandoval, Angeles Arrien, and Sally Gearhart. The earliest recordings in this exhibit were made in the late Summer of 1980 and document a series of tarot workshops taught by Angeles Arrien, a cultural anthropologist and author of ten books including "
         },
         {
           "text": "The Tarot Handbook : Practical Applications of Ancient Visual Symbols",
@@ -137,6 +137,15 @@
       "type": "paragraph",
       "children": [
         {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Contributing editors: Tanya Clement, Trent Wintermeier, and Jack Riordan"
         }
       ]
@@ -150,6 +159,6 @@
   "slug": "introduction",
   "created_at": "2024-12-20T21:20:24.366Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-04-08T13:51:45.164Z",
+  "updated_at": "2025-05-23T16:25:47.761Z",
   "updated_by": "tanyaclement"
 }
